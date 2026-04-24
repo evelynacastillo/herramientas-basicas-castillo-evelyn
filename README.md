@@ -28,3 +28,14 @@ Se desarrolló un dashboard interactivo que permite visualizar los resultados de
 
 ## 🧠 Conclusión
 El análisis permitió identificar patrones en la facturación, destacando la concentración en ciertos clientes y repartos, así como un alto porcentaje de comprobantes en estado pagado.
+
+## 🔗 Enlaces
+
+- 📓 Notebook (análisis en Python):  
+  https://github.com/evelynacastillo/herramientas-basicas-castillo-evelyn/blob/main/notebooks/notebook_analisis_facturacion.ipynb
+
+- 📁 Dataset limpio:  
+  https://github.com/evelynacastillo/herramientas-basicas-castillo-evelyn/blob/main/data/raw/listado_de_facturacion_limpio_y_anonimizado.csv
+
+- 📊 Dashboard en Power BI:  
+  https://github.com/evelynacastillo/herramientas-basicas-castillo-evelyn/blob/main/dashboard/dashboard_facturacion.pbix
